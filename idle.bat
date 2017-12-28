@@ -1,0 +1,1 @@
+pythonw.exe "Lib\idlelib\idle.pyw"
